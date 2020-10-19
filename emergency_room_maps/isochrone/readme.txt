@@ -1,3 +1,3 @@
-If you are having trouble running this code it may be because I have not loaded the data inputs to this repo. 
-
-I will add the ER facility list by Saturday 10/3.
+-See osmnx docs for tips on installing osmnx.
+-To create the isochrone map you must first run "make_isochrone.ipynb" for the lats/longs of interest.
+-The "make_isochrone.ipynb" code is set to run for 1 lat/long but if you set the loop equal to the full list of lat / long (see commented code) you can run the code for a list of lat/longs. </li>
