@@ -1,3 +1,3 @@
-If you are having trouble running this code it may be because I have not loaded the data inputs to this repo. 
-
-I will add the ER facility list and add instructions on downloading the CMS data entreprenuers files by Saturday 10/3.
+- All data inputs are available to run "choropleth_map.ipynb". Pre-procession of data happens in metric_dataprep, and I've saved the output of this script "NJ_ER_County_2008.csv" to data folder.
+- Inputs for "metric_datprep.ipynb" can be downloaded from: https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DESample01
+- If files are saved to "raw_data" folder metric_dataprep.ipynb can be run.
