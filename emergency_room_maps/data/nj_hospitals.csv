@@ -1,0 +1,74 @@
+name,street,city,state,zip,latitude,longitude,county,map_name
+ER 1,1925 Pacific Avenue,Atlantic City,NJ,8401,39.3583729,-74.43435193,Atlantic,ER_1
+ER 2,65 Jimmie Leeds Road,Pomona,NJ,8240,39.4775772,-74.5478565,Atlantic,ER_2
+ER 3,100 Medical Center Way,Somers Point,NJ,8244,39.31437455,-74.5923296,Atlantic,ER_3
+ER 4,1 Convention Boulevard,Atlantic City,NJ,8401,39.363609,-74.43944,Atlantic,ER_4
+ER 5,230 East Ridgewood Ave,Paramus,NJ,7652,40.9684004,-74.0754987,Bergen,ER_5
+ER 6,350 Engle St,Englewood,NJ,7631,40.9040478,-73.96863296,Bergen,ER_6
+ER 7,250 Old Hook Road,Westwood,NJ,7675,40.9847885,-74.01488241,Bergen,ER_7
+ER 8,30 Prospect Ave,Hackensack,NJ,7601,40.896549,-74.051572,Bergen,ER_8
+ER 9,718 Teaneck Rd,Teaneck,NJ,7666,40.88298655,-74.01020929,Bergen,ER_9
+ER 10,223 N Van Dien Avenue,Ridgewood,NJ,7450,40.98365705,-74.10050244,Bergen,ER_10
+ER 11,90 Brick Road,Marlton,NJ,8053,39.8817545,-74.918671,Burlington,ER_11
+ER 12,175 Madison Ave,Mount Holly,NJ,8060,39.983447,-74.7968699,Burlington,ER_12
+ER 13,218a Sunset Road,Willingboro,NJ,8046,40.049647,-74.871549,Burlington,ER_13
+ER 14,1 Cooper Plaza,Camden,NJ,8103,39.9415758,-75.11668251,Camden,ER_14
+ER 15,2201 Chapel Avenue West,Cherry Hill,NJ,8002,39.92736265,-75.0166459,Camden,ER_15
+ER 16,18 East Laurel Road,Stratford,NJ,8084,39.826748,-75.010171,Camden,ER_16
+ER 17,100 Bowman Drive,Voorhees,NJ,8043,39.84324315,-74.92785071,Camden,ER_17
+ER 18,1600 Haddon Avenue,Camden,NJ,8103,39.9269412,-75.09687818,Camden,ER_18
+ER 19,Two Stone Harbor Blvd,Cape May Court House,NJ,8210,39.087541,-74.81693,Cape May,ER_19
+ER 20,1505 W Sherman Ave,Vineland,NJ,8360,39.44441055,-75.05858277,Cumberland,ER_20
+ER 21,One Clara Maass Drive,Belleville,NJ,7109,40.785654,-74.176449,Essex,ER_21
+ER 22,300 Central Ave,East Orange,NJ,7018,40.75421325,-74.2134091,Essex,ER_22
+ER 23,1 Bay Avenue,Montclair,NJ,7042,40.811753,-74.203717,Essex,ER_23
+ER 24,201 Lyons Ave,Newark,NJ,7112,40.71027275,-74.21258458,Essex,ER_24
+ER 25,94 Old Short Hills Road,Livingston,NJ,7039,40.7636127,-74.30458761,Essex,ER_25
+ER 26,111 Central Avenue,Newark,NJ,7102,40.7440691,-74.17414365,Essex,ER_26
+ER 27,150 Bergen St,Newark,NJ,7101,40.727312,-74.197708,Essex,ER_27
+ER 28,240 Central Ave,East Orange,NJ,7018,40.7531221,-74.2112393,Essex,ER_28
+ER 29,700 Mullica Hill Road,Mullica Hill,NJ,8062,39.730035,-75.19395,Gloucester,ER_29
+ER 30,435 Hurffville Cross Keys Road,Turnersville,NJ,8012,39.735467,-75.065313,Gloucester,ER_30
+ER 31,29 East 29th St,Bayonne,NJ,7002,40.666832,-74.110942,Hudson,ER_31
+ER 32,176 Palisade Ave,Jersey City,NJ,7306,40.73391145,-74.04998938,Hudson,ER_32
+ER 33,308 Willow Ave,Hoboken,NJ,7030,40.74110375,-74.03407817,Hudson,ER_33
+ER 34,55 Meadowlands Pkwy,Secaucus,NJ,7094,40.7914715,-74.07354936,Hudson,ER_34
+ER 35,355 Grand Street,Jersey City,NJ,7302,40.7152568,-74.05082386,Hudson,ER_35
+ER 36,7600 River Rd,North Bergen,NJ,7047,40.79397715,-73.99587571,Hudson,ER_36
+ER 37,2100 Wescott Drive,Flemington,NJ,8822,40.531485,-74.86113,Hunterdon,ER_37
+ER 38,One Capital Way,Pennington,NJ,8534,40.291801,-74.804126,Mercer,ER_38
+ER 39,750 Brunswick Ave,Trenton,NJ,8638,40.23612455,-74.75204596,Mercer,ER_39
+ER 40,One Hamilton Health Place,Hamilton,NJ,8690,40.216849,-74.67247,Mercer,ER_40
+ER 41,601 Hamilton Ave,Trenton,NJ,8629,40.2164172,-74.74143593,Mercer,ER_41
+ER 42,65 James Street,Edison,NJ,8818,40.5563574,-74.35017766,Middlesex,ER_42
+ER 43,One-Five Plainsboro Road,Plainsboro,NJ,8536,40.340776,-74.623295,Middlesex,ER_43
+ER 44,530 New Brunswick Ave,Perth Amboy,NJ,8861,40.518922,-74.280558,Middlesex,ER_44
+ER 45,One Hospital Plaza,Old Bridge,NJ,8857,40.5190522,-74.28098296,Middlesex,ER_45
+ER 46,One Robert Wood Johnson Place,New Brunswick,NJ,8901,40.495212,-74.450131,Middlesex,ER_46
+ER 47,254 Easton Ave,New Brunswick,NJ,8901,40.5006491,-74.45986663,Middlesex,ER_47
+ER 48,97 Sunfield Avenue,Edison,NJ,8837,40.500055,-74.346834,Middlesex,ER_48
+ER 49,727 N Beers St,Holmdel,NJ,7733,40.40660465,-74.19179732,Monmouth,ER_49
+ER 50,901 West Main Street,Freehold,NJ,7728,40.2375854,-74.31242172,Monmouth,ER_50
+ER 51,1945 Rte 33,Neptune,NJ,7754,40.209135,-74.041212,Monmouth,ER_51
+ER 52,300 Second Avenue,Long Branch,NJ,7740,40.295452,-73.985407,Monmouth,ER_52
+ER 53,One Riverview Plaza,Red Bank,NJ,7701,40.353944,-74.063478,Monmouth,ER_53
+ER 54,97 West Parkway,Pompton Plains,NJ,7444,40.9581982,-74.30993914,Morris,ER_54
+ER 55,100 Madison Ave,Morristown,NJ,7960,40.789571,-74.46568458,Morris,ER_55
+ER 56,400 West Blackwell Street,Dover,NJ,7801,40.8846161,-74.57616258,Morris,ER_56
+ER 57,25 Pocono Road,Denville,NJ,7834,40.8951348,-74.46522068,Morris,ER_57
+ER 58,99 Rt 37 West,Toms River,NJ,8755,39.963826,-74.215731,Ocean,ER_58
+ER 59,600 River Ave,Lakewood,NJ,8701,40.07321275,-74.21940498,Ocean,ER_59
+ER 60,425 Jack Martin Blvd,Brick,NJ,8724,40.0735635,-74.1222266,Ocean,ER_60
+ER 61,1140 Rt 72 W,Manahawkin,NJ,8050,39.72043,-74.285086,Ocean,ER_61
+ER 62,703 Main St,Paterson,NJ,7503,40.90360815,-74.16572619,Passaic,ER_62
+ER 63,224 Hamburg Turnpike,Wayne,NJ,7470,40.959366,-74.233737,Passaic,ER_63
+ER 64,350 Boulevard,Passaic,NJ,7055,40.8594692,-74.13798568,Passaic,ER_64
+ER 65,501 West Front Street,Elmer,NJ,8318,39.587701,-75.180621,Salem,ER_65
+ER 66,310 Woodstown Road,Salem,NJ,8079,39.714882,-75.317867,Salem,ER_66
+ER 67,110 Rehill Ave,Somerville,NJ,8876,40.56807355,-74.59495675,Somerset,ER_67
+ER 68,175 High St,Newton,NJ,7860,41.05691885,-74.76847344,Sussex,ER_68
+ER 69,99 Beauvoir Avenue,Summit,NJ,7902,40.71255325,-74.35350045,Union,ER_69
+ER 70,865 Stone St,Rahway,NJ,7065,40.6131367,-74.29090625,Union,ER_70
+ER 71,225 Williamson Street,Elizabeth,NJ,7207,40.65875085,-74.21422443,Union,ER_71
+ER 72,651 Willow Grove St,Hackettstown,NJ,7840,40.864224,-74.811909,Warren,ER_72
+ER 73,185 Roseberry St,Phillipsburg,NJ,8865,40.7019807,-75.17819422,Warren,ER_73
