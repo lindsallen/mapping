@@ -1,3 +1,4 @@
 -See osmnx docs for tips on installing osmnx.
 -To create the isochrone map you must first run "make_isochrone.ipynb" for the lats/longs of interest.
--The "make_isochrone.ipynb" code is set to run for 1 lat/long but if you set the loop equal to the full list of lat / long (see commented code) you can run the code for a list of lat/longs. </li>
+-The "make_isochrone.ipynb" code is set to run for 1 lat/long but if you set the loop equal to the full list of lat / long (see commented code) you can run the code for a list of lat/longs. 
+- Sample isochrone files are included in "gis_data/isochrone" and reduced isochrone in "gis_data/isochrone/simple"
