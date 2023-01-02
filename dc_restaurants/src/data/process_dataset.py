@@ -1,15 +1,12 @@
-'''Processes two external datasets and saves to interim folder
-    Dataset #1 - DC licenses, limits licenses to restaurants and encodes Zillow neighborhood
-    Dataset #2 - Calculates area of Zillow neighborhoods
-   See notebook 1.0-lra-initial-data-exploration for cleaning assumptions
+'''Adds information from dataset #1 and dataset #2 to Zillow neighborhood geojson
+    Dataset #1 - Creates summary stats at the neighborhood level
+    Dataset #2 - Joins area to calculate restaurants per square foot
 '''
+
 import pandas as pd
 import geopandas as gpd
-import folium
-from folium import plugins
-import branca
-import time
 import os
+import time
 
 __author__ = "Lindsay Allen"
 __version__ = "1.0.1"
@@ -22,6 +19,7 @@ __status__ = "Development"
 
 start_time = time.time()
 
+os.chdir('..')
 os.chdir('..')
 
 ## Load encoded restaurant license data
